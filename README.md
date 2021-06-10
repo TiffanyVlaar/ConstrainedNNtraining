@@ -8,10 +8,11 @@ Experiments provided here are:
 
 - Our orthogonal constraint method (o-CoLA-ud) for a ResNet-34 architecture with learning rate decay on CIFAR-10 data (Figure 6 in the paper).
  
+ ```
     python OGconstraint_CIFAR10_resnet34.py
-  
+ ```
 - Our circle constraint method (c-CoLA-ud) for a MLP architecture on Fashion-MNIST data with 10K training samples (Figure 7 in the paper).
-
-    python circleconstraint_FashionMNIST_MLP.py
-
+```
+   python circleconstraint_FashionMNIST_MLP.py
+```
 
