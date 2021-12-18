@@ -1,4 +1,4 @@
-# Code accompanying "Better Training using Weight-Constrained Stochastic Dynamics", to appear in ICML 2021
+# Code accompanying "Better Training using Weight-Constrained Stochastic Dynamics", ICML 2021
 
 In this work we use constrained stochastic differential equations to train neural networks.
 As specific constraints we consider circle and orthogonality constraints.
